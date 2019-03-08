@@ -18,7 +18,7 @@ int wiek;
             System.Console.WriteLine("Podaj wiek");
                       wiek = int.Parse(Console.ReadLine());
             Console.WriteLine("Witaj " + imie + " "+ wiek);
-
+//testowy
         }
     }
 }

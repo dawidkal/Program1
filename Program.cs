@@ -32,7 +32,7 @@ namespace Program1
             Console.ForegroundColor = ConsoleColor.Green; //zmiana koloru
             Console.WriteLine("Witaj " + imie + " " + wiek);
             Console.ReadKey(); //oczekiwanie na klawisz
-
+//test
         }
     }
 }

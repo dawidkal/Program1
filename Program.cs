@@ -12,7 +12,7 @@ namespace Program1
                 WprowadzanieDanych();
         }
 
-        private static void JakiMamyDzien() //zmiana nazwy metody test dla gita
+        private static void JakiMamyDzien() 
         {
             if (DateTime.Now.DayOfWeek == DayOfWeek.Thursday)
             { Console.WriteLine(" Dziś jest czwartek"); }
